@@ -8,8 +8,8 @@ This project analyzes robotic sales data using SQL in Google BigQuery and visual
 ## Objectives
 
 * Analyze overall sales performance
-* Identify best-selling pizza categories
-* Measure revenue contribution by pizza type
+* Identify best-selling robotic products
+* Measure revenue contribution by quartil and year
 * Understand customer purchasing trends
 * Create an interactive dashboard for business decision-making
 
@@ -26,11 +26,10 @@ View the interactive dashboard here:
 https://datastudio.google.com/reporting/6fe04cf3-d3cd-4ebc-b27c-9be5d781ca7c
 
 ## Dashboard Preview
-[Dashboard Robotic](https://github.com/FannyWahyuAprilia/Maximizing-Profit-Pizza-Mania-Sales-Analysis-2015/blob/main/Dashboard%20Pizza.png)
+[Dashboard Robotic](https://github.com/FannyWahyuAprilia/Analysis-Sales-Performance-Robotic/blob/main/Dashboard%20Robotic.png)
 
 ## Key Insights
 
-* The highest revenue-generating pizza categories were identified through sales aggregation.
+* The highest revenue-generating robotic products were identified through sales aggregation.
 * Sales trends revealed peak purchasing periods.
-* Certain pizza types consistently outperformed others in both quantity sold and revenue generated.
 * Dashboard visualizations help stakeholders quickly monitor business performance.
